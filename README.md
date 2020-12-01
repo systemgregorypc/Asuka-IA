@@ -12,7 +12,7 @@ Sistema operativo compatible
 
 --Esta herramienta actualmente solo es compatible con sitio web ( servidor ) usando plataforma de Unix, Linux, Windows , Mac y Navi un ordenador privado
 
-operando en combate unidad eva neo Drones con IA ( Inteligencia Artificla )   
+operando en combate unidad eva neo Drones con IA ( Inteligencia Artificial )   
 planificadora en combate , extrategia , comanate de la unidad neo tacticas de guerra , unidad de enfermera de recuperacion de piezas eletroncas y seres biologicos  ( humanos)    desguardar su seguridad y integirdad de vida ..
 operaciones ( claficificado sus funciones de defenza neo  ) 
 
